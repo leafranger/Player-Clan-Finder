@@ -94,7 +94,6 @@ Just download the built script in an .exe format and run it
 Some antivirus software might flag the executable as potentially malicious due to its newness or behavior patterns. Here's what you need to know:
 
 - **False Positives**: The application is safe and has been built using best practices. The flags might be due to common patterns detected by antivirus systems.
-- **Code Signing**: The executable is digitally signed to ensure its authenticity and integrity.
 
 ### **Steps to Handle Security Warnings**
 
