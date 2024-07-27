@@ -89,6 +89,22 @@ Just download the built script in an .exe format and run it
 - **API Rate Limits:** If the program slows down or stops, it might be due to API rate limits. Consider adding rate limiting or exponential backoff in the code.
 - **Errors in Search:** Check the `app.log` file for detailed error messages if the program fails to fetch data or encounters issues.
 
+## Security Warnings
+
+Some antivirus software might flag the executable as potentially malicious due to its newness or behavior patterns. Here's what you need to know:
+
+- **False Positives**: The application is safe and has been built using best practices. The flags might be due to common patterns detected by antivirus systems.
+- **Code Signing**: The executable is digitally signed to ensure its authenticity and integrity.
+
+### **Steps to Handle Security Warnings**
+
+1. **Review the Warning**: Read the warning message carefully. If it appears to be a false positive, you can allow the file to run.
+2. **Contact Us**: If you have concerns or need further clarification, contact us at [your contact information].
+3. **Report to Antivirus Vendors**: If you believe this is a false positive, you can report it to the antivirus vendor for further review.
+
+Thanks for your understanding and cooperation.
+
+
 ## Contributing
 
 Feel free to fork the repository, submit issues, or create pull requests with improvements or bug fixes.
