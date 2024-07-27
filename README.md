@@ -94,11 +94,12 @@ Just download the built script in an .exe format and run it
 Some antivirus software might flag the executable as potentially malicious due to its newness or behavior patterns. Here's what you need to know:
 
 - **False Positives**: The application is safe and has been built using best practices. The flags might be due to common patterns detected by antivirus systems.
+- **VirusTotal**: [I'm aware of the current VirusTotal detection](https://www.virustotal.com/gui/file/ce6a08ce0be15a895d0388b7e24abee4df589672808b46878a530af35d59aac7/detection)
 
 ### **Steps to Handle Security Warnings**
 
 1. **Review the Warning**: Read the warning message carefully. If it appears to be a false positive, you can allow the file to run.
-2. **Contact Us**: If you have concerns or need further clarification, contact us at [your contact information].
+2. **Contact Us**: If you have concerns or need further clarification, contact us at [your contact information]. Check the code or make it yourself!
 3. **Report to Antivirus Vendors**: If you believe this is a false positive, you can report it to the antivirus vendor for further review.
 
 Thanks for your understanding and cooperation.
