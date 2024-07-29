@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Player Clan Finder** is a command-line tool designed to help users find which clan a specific Roblox player belongs to.
+**Player Clan Finder** is a command-line tool designed to help users find which clan in Pet Simulator 99 a specific Roblox player belongs to.
 It retrieves data from the BigGames API to identify clans and their members, and checks if a given user is part of any clan.
 Works up to the 1000th clan (can be changed in the code)
 
